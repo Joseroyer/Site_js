@@ -1,4 +1,4 @@
-# Site_js - Referente ao Trabalho de Faculdade, Materia de Desenvolvimento  de Aplicação Web
+# Site_js - Referente ao Trabalho de Faculdade, Matéria de Desenvolvimento  de Aplicação Web
 
 - Objetivo foi criar um layout de um Website/Plataforma para organização de Campeonatos de Jogos Digitais,
 trazendo uma homepage interessante e mantendo um visual adequado seguindo alguns cuidados de layout, assim, promovendo harmonia e experiência ao usuário.
