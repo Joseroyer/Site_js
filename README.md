@@ -6,7 +6,7 @@ trazendo uma homepage interessante e mantendo um visual adequado seguindo alguns
 - Pontos a ser Tratado:
 	* Foi utilizado Template pronto da web, com obrigatóriedade do uso do bootstrap.
 	* Utilizar Máscaras e Validar inputs utilizando JavaScript.
-	* Fazer um tabela Dinânimica para interação com usuário.
+	* Fazer um tabela Dinâmica para interação com usuário.
 
 obs: Sendo assim o maior foco do trabalho era a utilização do JavaScript.
 
