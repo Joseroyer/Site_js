@@ -4,9 +4,10 @@
 trazendo uma homepage interessante e mantendo um visual adequado seguindo alguns cuidados de layout, assim, promovendo harmonia e experiência ao usuário.
 
 - Pontos a ser Tratado:
-	* Foi utilizado Template pronto da web, com obrigatóriedade do uso do bootstrap.
+	* Foi utilizado Template pronto da web, com obrigatoriedade do uso do bootstrap.
 	* Utilizar Máscaras e Validar inputs utilizando JavaScript.
 	* Fazer um tabela Dinâmica para interação com usuário.
+	* Utilização de Formulários.
 
 obs: Sendo assim o maior foco do trabalho era a utilização do JavaScript.
 
